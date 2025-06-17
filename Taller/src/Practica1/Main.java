@@ -6,7 +6,7 @@ public class Main {
         carro.mostrarVehiculo();
 
         //Actualizacion de Kilometraje
-        carro.setKilometraje("120 Km");
+        carro.setKilometraje("80 Km");
         carro.mostrarVehiculo();
 
     }
